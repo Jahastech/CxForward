@@ -6,7 +6,7 @@ var MAX_CONN_ERR_CNT = 20;
 var ERR_KW = "127.100.100.1";
 var SUCC_KW = "127.100.100.100";
 var SIGNAL_PING = "ping.signal.nxfilter.org";
-var BLOCKIP_URL = "https://redip.nxfilter.org/redip.php?action=get";
+var BLOCKIP_URL = "https://redip.nxfilter.org/redip.jsp?action=get";
 
 var g_debug_flag = true;
 var g_domain_cache = {};

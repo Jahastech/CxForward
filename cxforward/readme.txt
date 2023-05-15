@@ -1,11 +1,15 @@
 *****************************************************************
-CxForward v1.1.1
+CxForward v1.1.2
   Author : Jahastech
   Homepage : http://www.nxfilter.org
   Contact : support@nxfilter.org
 *****************************************************************
 
 CxForward is a property of Jahastech.
+
+
+2022-08-12, v1.1.2
+- redip.php -> redip.jsp.
 
 
 2022-05-18, v1.1.1
